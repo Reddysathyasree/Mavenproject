@@ -21,6 +21,7 @@ public class Test1 {
 	driver.manage().window().maximize();
 	driver.get("https://www.google.com");
 	System.out.println(driver.getTitle());
+	System.out.println("demo");
 
 	}
 
